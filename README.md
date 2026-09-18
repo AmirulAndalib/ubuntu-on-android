@@ -33,6 +33,10 @@ ubuntu-on-android is yet another utility allowing you to install pre-configured 
 
 codename = `udroid`
 
+## uDroid for Android
+
+Prefer an app? [uDroid for Android](https://github.com/RandomCoderOrg/udroid-app) provides a standalone interface for installing and using Linux systems. It is currently in early development; download the latest build from [GitHub Releases](https://github.com/RandomCoderOrg/udroid-app/releases).
+
 ## Installation
 
 
@@ -121,5 +125,4 @@ MIT
 Copyright © 2023 RandomCoderOrg
 
 udroid logo "chad the penguin" designed by [Сэмми](https://github.com/b1tchysam)
-
 
